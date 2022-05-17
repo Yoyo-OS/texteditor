@@ -1,6 +1,6 @@
 # Text Editor
 
-Elegant text editor for CutefishOS. 
+Elegant text editor for YoyoOS. 
 
 ![screenshot](screenshots/Screenshot_20211221_212801.png)
 
