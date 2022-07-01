@@ -2,6 +2,8 @@
 
 Elegant text editor for YoyoOS. 
 
+[![Build](https://github.com/Yoyo-OS/texteditor/actions/workflows/build.yml/badge.svg)](https://github.com/Yoyo-OS/texteditor/actions/workflows/build.yml)
+
 ![screenshot](screenshots/Screenshot_20211221_212801.png)
 
 ## Dependencies
