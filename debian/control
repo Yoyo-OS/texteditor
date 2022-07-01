@@ -1,4 +1,4 @@
-Source: texteditor
+Source: yoyo-texteditor
 Section: devel
 Priority: optional
 Maintainer: YoyoOS <yoyoos@foxmail.com>
@@ -8,7 +8,7 @@ Build-Depends: cmake,
 Standards-Version: 4.5.0
 Homepage: https://github.com/yoyoos/texteditor
 
-Package: texteditor
+Package: yoyo-texteditor
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: YoyoOS Texteditor

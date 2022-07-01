@@ -1,5 +1,12 @@
+yoyo-texteditor (0.9) UNRELEASED; urgency=medium
+
+  * Release 0.9
+
+ -- YoyoOS Packaging Team <support@yoyoos.com>  Fri, 01 Jul 2022 09:31:58 +0800
+
 texteditor (0.7-1) UNRELEASED; urgency=medium
 
   * Initial Release.
 
  -- YoyoOS Packaging Team <support@yoyoos.com> Sun, 16 Jan 2022 18:12:05 +0800
+
