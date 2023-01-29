@@ -52,3 +52,9 @@ compile_commands.json
 *creator.user*
 
 build/*
+debian/files
+debian/.debhelper*
+debian/yoyo-texteditor/*
+obj-x86_64-linux-gnu
+debian/yoyo-texteditor.debhelper.log
+debian/yoyo-texteditor.substvars

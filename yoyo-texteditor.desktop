@@ -1,8 +1,8 @@
 [Desktop Entry]
 Categories=Utility;TextEditor;
 Comment=General text editor
-Exec=/usr/bin/yoyo-editor %F
-Icon=yoyo-editor
+Exec=/usr/bin/yoyo-texteditor %F
+Icon=yoyo-texteditor
 Name=Yoyo Text Editor
 GenericName=Yoyo Text Editor
 StartupNotify=false
