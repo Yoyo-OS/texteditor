@@ -32,3 +32,6 @@ target_link_libraries(yoyo-texteditor
   Qt5::Quick
   KF5::SyntaxHighlighting
   )
+
+  install(TARGETS yoyo-texteditor RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR})
+install(FILES yoyo-editor.desktop DESTINATION &quot;/usr/share/applications&quot;)
